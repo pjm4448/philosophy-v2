@@ -23,4 +23,302 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 ## Claims by concept
 
-_No claims distilled yet._
+### agnostic-conscious-realism
+
+*Agnostic Conscious Realism*
+
+- [AD-P-027](foundation/00-preamble.md) Conscious experience is directly encountered · First-person
+- [AD-P-028](foundation/00-preamble.md) Conscious experience cannot honestly be eliminated · Methodological
+- [AD-P-029](foundation/00-preamble.md) The human person is tethered to biological organisation · Empirical
+- [AD-P-030](foundation/00-preamble.md) The consciousness–matter relationship is unresolved · Uncertainty
+- [AD-P-031](foundation/00-preamble.md) Ethical responsibility does not wait for certainty · Chosen foundation
+
+### agnostic-deism
+
+*Agnostic Deism*
+
+- [AD-P-001](foundation/00-preamble.md) The framework is a structure for living · Methodological
+- [AD-P-038](foundation/00-preamble.md) Agnostic Deism is the metaphysical foundation, not the whole philosophy · Methodological
+
+### agnosticism
+
+*Agnosticism (The Epistemic Boundary)*
+
+- [AD-P-002](foundation/00-preamble.md) Knowledge from within the system is fundamentally limited · Methodological
+- [AD-P-003](foundation/00-preamble.md) Epistemic humility is foundational · Methodological
+
+### annihilation-of-the-ego
+
+*Annihilation of the Ego*
+
+- [AD-P-032](foundation/00-preamble.md) The individual ends when the biological pattern dissolves · Inference
+
+### anthropocentrism
+
+*Anthropocentrism / cosmic privilege*
+
+- [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
+- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Not established
+- [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
+- [AD-P-012](foundation/00-preamble.md) Cosmic insignificance does not entail personal or moral insignificance · Methodological
+- [AD-P-026](foundation/00-preamble.md) We are responsible for our limited authorship · Chosen foundation
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### architect
+
+*Architect, The*
+
+- [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
+- [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
+- [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+
+### artificial-receiver
+
+*Artificial Receiver (AI)*
+
+- [AD-P-025](foundation/00-preamble.md) Products of blind optimisation can become conscious authors · Interpretation
+
+### biological-tether
+
+*Biological Tether*
+
+- [AD-P-029](foundation/00-preamble.md) The human person is tethered to biological organisation · Empirical
+- [AD-P-032](foundation/00-preamble.md) The individual ends when the biological pattern dissolves · Inference
+
+### blind-optimization
+
+*Blind Optimization*
+
+- [AD-P-008](foundation/00-preamble.md) Evolution is a Blind Optimizer · Empirical
+- [AD-P-023](foundation/00-preamble.md) We are products of processes we did not choose · Empirical
+
+### blueprint
+
+*Blueprint, The*
+
+- [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+
+### borrowed-current
+
+*Borrowed Current*
+
+- [AD-P-018](foundation/00-preamble.md) We are temporary patterns in a shared thermodynamic economy · Interpretation
+- [AD-P-021](foundation/00-preamble.md) We borrow, organise and return energy · Interpretation
+
+### conscious-boundary
+
+*Conscious Boundary (The Mysterian Limit)*
+
+- [AD-P-030](foundation/00-preamble.md) The consciousness–matter relationship is unresolved · Uncertainty
+
+### constructed-ethics
+
+*Constructed Ethics*
+
+- [AD-P-014](foundation/00-preamble.md) The universe provides no moral code or pre-written purpose · Not established
+- [AD-P-015](foundation/00-preamble.md) Meaning and ethics are constructed, not received · Methodological
+- [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+- [AD-P-017](foundation/00-preamble.md) Lack of external authorisation does not diminish responsibility · Chosen foundation
+- [AD-P-037](foundation/00-preamble.md) A chosen value is not dishonest for being uncommanded · Methodological
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### contingency-principle
+
+*Contingency Principle (The Lottery Thesis)*
+
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
+- [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
+
+### deism
+
+*Deism (the rational inference)*
+
+- [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
+- [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
+
+### deprivation-harm
+
+*Deprivation Harm*
+
+- [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+
+### directed-optimization
+
+*Directed Optimization*
+
+- [AD-P-024](foundation/00-preamble.md) We can increasingly understand and modify some of those processes · Empirical
+- [AD-P-025](foundation/00-preamble.md) Products of blind optimisation can become conscious authors · Interpretation
+
+### emergent-authorship
+
+*Emergent Authorship*
+
+- [AD-P-025](foundation/00-preamble.md) Products of blind optimisation can become conscious authors · Interpretation
+- [AD-P-026](foundation/00-preamble.md) We are responsible for our limited authorship · Chosen foundation
+
+### epistemic-status
+
+*Epistemic Status*
+
+- [AD-P-003](foundation/00-preamble.md) Epistemic humility is foundational · Methodological
+- [AD-P-035](foundation/00-preamble.md) Claim types are distinct and held to their own standards · Methodological
+- [AD-P-036](foundation/00-preamble.md) A scientific fact does not by itself produce a moral obligation · Methodological
+
+### evolution
+
+*Evolution (The Blind Optimizer)*
+
+- [AD-P-008](foundation/00-preamble.md) Evolution is a Blind Optimizer · Empirical
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
+- [AD-P-023](foundation/00-preamble.md) We are products of processes we did not choose · Empirical
+
+### fine-tuning
+
+*Fine-tuning of physical constants*
+
+- [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
+
+### finite-solidarity
+
+*Finite Solidarity*
+
+- [AD-P-018](foundation/00-preamble.md) We are temporary patterns in a shared thermodynamic economy · Interpretation
+- [AD-P-022](foundation/00-preamble.md) Kinship is chosen · Chosen foundation
+
+### free-will
+
+*Free Will (Open Question)*
+
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### genetic-engineering-ethics
+
+*Genetic Engineering Ethics*
+
+- [AD-P-024](foundation/00-preamble.md) We can increasingly understand and modify some of those processes · Empirical
+
+### infinite-pool
+
+*Infinite Pool, The (Interpretive Frame)*
+
+- [AD-P-019](foundation/00-preamble.md) The Infinite Pool is interpretive vocabulary for the shared condition · Interpretation
+- [AD-P-020](foundation/00-preamble.md) The Pool is not a physical substance or a source of moral law · Methodological
+- [AD-P-021](foundation/00-preamble.md) We borrow, organise and return energy · Interpretation
+
+### interpretive-frame
+
+*Interpretive Frame*
+
+- [AD-P-019](foundation/00-preamble.md) The Infinite Pool is interpretive vocabulary for the shared condition · Interpretation
+- [AD-P-020](foundation/00-preamble.md) The Pool is not a physical substance or a source of moral law · Methodological
+
+### is-ought-gap
+
+*Is-Ought Gap (Hume's Guillotine)*
+
+- [AD-P-036](foundation/00-preamble.md) A scientific fact does not by itself produce a moral obligation · Methodological
+
+### life-extension
+
+*Life Extension*
+
+- [AD-P-033](foundation/00-preamble.md) Accepting death does not mean welcoming it or refusing life extension · Chosen foundation
+
+### meaning
+
+*Constructed meaning*
+
+- [AD-P-012](foundation/00-preamble.md) Cosmic insignificance does not entail personal or moral insignificance · Methodological
+- [AD-P-013](foundation/00-preamble.md) Importance is created by beings who value one another · Chosen foundation
+- [AD-P-014](foundation/00-preamble.md) The universe provides no moral code or pre-written purpose · Not established
+- [AD-P-015](foundation/00-preamble.md) Meaning and ethics are constructed, not received · Methodological
+- [AD-P-034](foundation/00-preamble.md) Finitude makes the present domain of agency precious · Interpretation
+
+### moral-construction
+
+*Moral Construction*
+
+- [AD-P-013](foundation/00-preamble.md) Importance is created by beings who value one another · Chosen foundation
+- [AD-P-015](foundation/00-preamble.md) Meaning and ethics are constructed, not received · Methodological
+- [AD-P-037](foundation/00-preamble.md) A chosen value is not dishonest for being uncommanded · Methodological
+
+### mortality
+
+*Mortality and finitude*
+
+- [AD-P-032](foundation/00-preamble.md) The individual ends when the biological pattern dissolves · Inference
+- [AD-P-033](foundation/00-preamble.md) Accepting death does not mean welcoming it or refusing life extension · Chosen foundation
+- [AD-P-034](foundation/00-preamble.md) Finitude makes the present domain of agency precious · Interpretation
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### phenomenal-precaution-principle
+
+*Phenomenal Precaution Principle*
+
+- [AD-P-031](foundation/00-preamble.md) Ethical responsibility does not wait for certainty · Chosen foundation
+
+### problem-of-evil
+
+*Problem of evil and suffering*
+
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### process-oriented-architect
+
+*Process-Oriented Architect*
+
+- [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
+- [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+
+### rejection-of-ego
+
+*Rejection of Ego (The Anti-Anthropocentric Axiom)*
+
+- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Not established
+- [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
+
+### revelation
+
+*Revelation and revealed religion*
+
+- [AD-P-001](foundation/00-preamble.md) The framework is a structure for living · Methodological
+- [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
+- [AD-P-014](foundation/00-preamble.md) The universe provides no moral code or pre-written purpose · Not established
+- [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+
+### second-order-authorship
+
+*Second-Order Authorship*
+
+- [AD-P-025](foundation/00-preamble.md) Products of blind optimisation can become conscious authors · Interpretation
+
+### solidarity-principle
+
+*Solidarity Principle (Applied to Multiple Domains)*
+
+- [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+
+### suffering
+
+*Suffering*
+
+- [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+
+### threshold-of-individual-existence
+
+*Threshold of Individual Existence (Zinc Spark)*
+
+- [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+
+### universal-solidarity
+
+*Universal Solidarity (Chosen Value)*
+
+- [AD-P-022](foundation/00-preamble.md) Kinship is chosen · Chosen foundation
+
+### write-edge
+
+*Write Edge (The Present)*
+
+- [AD-P-034](foundation/00-preamble.md) Finitude makes the present domain of agency precious · Interpretation
