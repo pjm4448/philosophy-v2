@@ -62,6 +62,9 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-006](foundation/01-epistemic-framework.md) Agnostic about the Architect's nature and about consciousness · Methodological
 - [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
 - [AD-II-012](foundation/02-nature-of-the-render.md) Libertarian free will is possible but unverifiable · Uncertainty
+- [AD-III-009](foundation/03-architect-and-prototype.md) Functional indifference is a functional model, not a psychological claim · Postulated
+- [AD-III-026](foundation/03-architect-and-prototype.md) The regress question is unresolvable from within · Uncertainty
+- [AD-III-027](foundation/03-architect-and-prototype.md) Nothing is claimed about what lies beyond the boundary · Methodological
 
 ### annihilation-of-the-ego
 
@@ -83,6 +86,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
 - [AD-I-015](foundation/01-epistemic-framework.md) The mystery of consciousness is no back door to cosmic privilege · Methodological
 - [AD-I-016](foundation/01-epistemic-framework.md) Anti-anthropocentrism survives either ontology of consciousness · Methodological
+- [AD-III-024](foundation/03-architect-and-prototype.md) Humans are not the goal of evolution · Methodological
 
 ### architect
 
@@ -102,6 +106,17 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-027](foundation/01-epistemic-framework.md) The Architect is preferred to the multiverse on parsimony · Inference
 - [AD-I-028](foundation/01-epistemic-framework.md) Preferring the Architect over brute fact trades parsimony for explanation · Inference
 - [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
+- [AD-III-001](foundation/03-architect-and-prototype.md) The universe appears to be a live, iterative prototype · Interpretation
+- [AD-III-002](foundation/03-architect-and-prototype.md) Precise constants suggest a careful Conscious Architect · Inference
+- [AD-III-003](foundation/03-architect-and-prototype.md) The Architect's care is process-oriented · Interpretation
+- [AD-III-007](foundation/03-architect-and-prototype.md) No intervention, answered prayer, moral enforcement or outcome preference is observed · Empirical
+- [AD-III-009](foundation/03-architect-and-prototype.md) Functional indifference is a functional model, not a psychological claim · Postulated
+- [AD-III-010](foundation/03-architect-and-prototype.md) Non-intervention is the most confident working assumption · Methodological
+- [AD-III-011](foundation/03-architect-and-prototype.md) Undetectable intervention is functionally non-intervention · Methodological
+- [AD-III-012](foundation/03-architect-and-prototype.md) Intervention would corrupt what the Architect values · Interpretation
+- [AD-III-013](foundation/03-architect-and-prototype.md) The Architect's existence is inferred · Inference
+- [AD-III-026](foundation/03-architect-and-prototype.md) The regress question is unresolvable from within · Uncertainty
+- [AD-III-027](foundation/03-architect-and-prototype.md) Nothing is claimed about what lies beyond the boundary · Methodological
 
 ### artificial-receiver
 
@@ -123,6 +138,13 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-008](foundation/00-preamble.md) Evolution is a Blind Optimizer · Empirical
 - [AD-P-023](foundation/00-preamble.md) We are products of processes we did not choose · Empirical
 - [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
+- [AD-III-005](foundation/03-architect-and-prototype.md) Uncorrected suffering and blind evolution follow from process-oriented design · Interpretation
+- [AD-III-015](foundation/03-architect-and-prototype.md) Flaws are not bugs but consequences of blind optimisation · Interpretation
+- [AD-III-016](foundation/03-architect-and-prototype.md) Evolution selects for reproduction, not comfort or longevity · Empirical
+- [AD-III-021](foundation/03-architect-and-prototype.md) Evolution is optimisation without purpose · Empirical
+- [AD-III-022](foundation/03-architect-and-prototype.md) Computational language for evolution is metaphor · Methodological
+- [AD-III-023](foundation/03-architect-and-prototype.md) Evolution merely filters · Empirical
+- [AD-III-025](foundation/03-architect-and-prototype.md) Evolution will continue, but toward nothing · Inference
 
 ### blueprint
 
@@ -131,6 +153,10 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
 - [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
 - [AD-I-018](foundation/01-epistemic-framework.md) Precise constants suggest a Conscious Architect · Inference
+- [AD-III-002](foundation/03-architect-and-prototype.md) Precise constants suggest a careful Conscious Architect · Inference
+- [AD-III-003](foundation/03-architect-and-prototype.md) The Architect's care is process-oriented · Interpretation
+- [AD-III-017](foundation/03-architect-and-prototype.md) The Architect initialised evolution, not anatomy · Interpretation
+- [AD-III-020](foundation/03-architect-and-prototype.md) Evolution is the Architect's embedded process · Interpretation
 
 ### borrowed-current
 
@@ -169,6 +195,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
 - [AD-I-012](foundation/01-epistemic-framework.md) A successor species would repeat the myth of centrality · Postulated — *amended L-0001*
 - [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
+- [AD-III-024](foundation/03-architect-and-prototype.md) Humans are not the goal of evolution · Methodological
 
 ### data-cube
 
@@ -198,6 +225,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-024](foundation/01-epistemic-framework.md) Alternative explanations of fine-tuning remain possible · Uncertainty
 - [AD-I-025](foundation/01-epistemic-framework.md) The Architect best balances parsimony and explanatory content · Inference
 - [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
+- [AD-III-010](foundation/03-architect-and-prototype.md) Non-intervention is the most confident working assumption · Methodological
+- [AD-III-013](foundation/03-architect-and-prototype.md) The Architect's existence is inferred · Inference
 
 ### deprivation-harm
 
@@ -240,6 +269,13 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-009](foundation/01-epistemic-framework.md) Human dominance is evolutionary circumstance, not cosmic necessity · Inference — *amended L-0001*
 - [AD-I-010](foundation/01-epistemic-framework.md) Another species would have filled our place · Inference — *amended L-0001*
 - [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
+- [AD-III-016](foundation/03-architect-and-prototype.md) Evolution selects for reproduction, not comfort or longevity · Empirical
+- [AD-III-019](foundation/03-architect-and-prototype.md) Variation and selection improve local fit · Empirical
+- [AD-III-020](foundation/03-architect-and-prototype.md) Evolution is the Architect's embedded process · Interpretation
+- [AD-III-021](foundation/03-architect-and-prototype.md) Evolution is optimisation without purpose · Empirical
+- [AD-III-022](foundation/03-architect-and-prototype.md) Computational language for evolution is metaphor · Methodological
+- [AD-III-023](foundation/03-architect-and-prototype.md) Evolution merely filters · Empirical
+- [AD-III-025](foundation/03-architect-and-prototype.md) Evolution will continue, but toward nothing · Inference
 
 ### fine-tuning
 
@@ -257,6 +293,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-026](foundation/01-epistemic-framework.md) Observer selection is valid but incomplete · Inference
 - [AD-I-027](foundation/01-epistemic-framework.md) The Architect is preferred to the multiverse on parsimony · Inference
 - [AD-I-028](foundation/01-epistemic-framework.md) Preferring the Architect over brute fact trades parsimony for explanation · Inference
+- [AD-III-002](foundation/03-architect-and-prototype.md) Precise constants suggest a careful Conscious Architect · Inference
+- [AD-III-004](foundation/03-architect-and-prototype.md) The process-oriented model resolves the precision/indifference tension · Interpretation
 
 ### finite-solidarity
 
@@ -274,6 +312,16 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
 - [AD-II-011](foundation/02-nature-of-the-render.md) Choices may be genuinely open · Postulated
 - [AD-II-012](foundation/02-nature-of-the-render.md) Libertarian free will is possible but unverifiable · Uncertainty
+
+### functional-indifference
+
+*Functional Indifference (to Outcomes)*
+
+- [AD-III-004](foundation/03-architect-and-prototype.md) The process-oriented model resolves the precision/indifference tension · Interpretation
+- [AD-III-007](foundation/03-architect-and-prototype.md) No intervention, answered prayer, moral enforcement or outcome preference is observed · Empirical
+- [AD-III-008](foundation/03-architect-and-prototype.md) For a process-oriented Architect, the process is the product · Interpretation
+- [AD-III-009](foundation/03-architect-and-prototype.md) Functional indifference is a functional model, not a psychological claim · Postulated
+- [AD-III-011](foundation/03-architect-and-prototype.md) Undetectable intervention is functionally non-intervention · Methodological
 
 ### genetic-engineering-ethics
 
@@ -310,6 +358,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-034](foundation/01-epistemic-framework.md) The Pool is not a mystical substance · Methodological
 - [AD-I-035](foundation/01-epistemic-framework.md) The Pool is not a physical field and proposes no new physics · Methodological
 - [AD-II-002](foundation/02-nature-of-the-render.md) Computational language is vocabulary, not physics · Methodological
+- [AD-III-020](foundation/03-architect-and-prototype.md) Evolution is the Architect's embedded process · Interpretation
+- [AD-III-022](foundation/03-architect-and-prototype.md) Computational language for evolution is metaphor · Methodological
 
 ### is-ought-gap
 
@@ -376,6 +426,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 *Problem of evil and suffering*
 
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+- [AD-III-005](foundation/03-architect-and-prototype.md) Uncorrected suffering and blind evolution follow from process-oriented design · Interpretation
 
 ### process-oriented-architect
 
@@ -384,6 +435,15 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
 - [AD-I-019](foundation/01-epistemic-framework.md) The Architect initialised the system and does not intervene · Inference
+- [AD-III-001](foundation/03-architect-and-prototype.md) The universe appears to be a live, iterative prototype · Interpretation
+- [AD-III-003](foundation/03-architect-and-prototype.md) The Architect's care is process-oriented · Interpretation
+- [AD-III-004](foundation/03-architect-and-prototype.md) The process-oriented model resolves the precision/indifference tension · Interpretation
+- [AD-III-005](foundation/03-architect-and-prototype.md) Uncorrected suffering and blind evolution follow from process-oriented design · Interpretation
+- [AD-III-006](foundation/03-architect-and-prototype.md) Whether specific features are intended is unknown · Uncertainty
+- [AD-III-008](foundation/03-architect-and-prototype.md) For a process-oriented Architect, the process is the product · Interpretation
+- [AD-III-012](foundation/03-architect-and-prototype.md) Intervention would corrupt what the Architect values · Interpretation
+- [AD-III-017](foundation/03-architect-and-prototype.md) The Architect initialised evolution, not anatomy · Interpretation
+- [AD-III-018](foundation/03-architect-and-prototype.md) Suboptimal design fits the process-oriented model · Interpretation
 
 ### quantum-speculation
 
@@ -411,6 +471,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
 - [AD-I-014](foundation/01-epistemic-framework.md) The ability to ask questions does not privilege our answers · Methodological
 - [AD-I-015](foundation/01-epistemic-framework.md) The mystery of consciousness is no back door to cosmic privilege · Methodological
+- [AD-III-024](foundation/03-architect-and-prototype.md) Humans are not the goal of evolution · Methodological
 
 ### revelation
 
@@ -421,6 +482,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-014](foundation/00-preamble.md) The universe provides no moral code or pre-written purpose · Not established
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
 - [AD-I-005](foundation/01-epistemic-framework.md) Revelatory or unitive experiences remain interpretations · Methodological
+- [AD-III-007](foundation/03-architect-and-prototype.md) No intervention, answered prayer, moral enforcement or outcome preference is observed · Empirical
 
 ### second-order-authorship
 
@@ -428,17 +490,36 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-025](foundation/00-preamble.md) Products of blind optimisation can become conscious authors · Interpretation
 
+### solar-sandbox
+
+*Solar Sandbox (Observed Isolation)*
+
+- [AD-III-006](foundation/03-architect-and-prototype.md) Whether specific features are intended is unknown · Uncertainty
+
 ### solidarity-principle
 
 *Solidarity Principle (Applied to Multiple Domains)*
 
 - [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
 
+### suboptimal-design
+
+*Suboptimal Design*
+
+- [AD-III-014](foundation/03-architect-and-prototype.md) Biological systems contain apparent flaws · Empirical
+- [AD-III-015](foundation/03-architect-and-prototype.md) Flaws are not bugs but consequences of blind optimisation · Interpretation
+- [AD-III-016](foundation/03-architect-and-prototype.md) Evolution selects for reproduction, not comfort or longevity · Empirical
+- [AD-III-017](foundation/03-architect-and-prototype.md) The Architect initialised evolution, not anatomy · Interpretation
+- [AD-III-018](foundation/03-architect-and-prototype.md) Suboptimal design fits the process-oriented model · Interpretation
+
 ### suffering
 
 *Suffering*
 
 - [AD-P-016](foundation/00-preamble.md) The ethical foundations are chosen commitments · Chosen foundation
+- [AD-III-005](foundation/03-architect-and-prototype.md) Uncorrected suffering and blind evolution follow from process-oriented design · Interpretation
+- [AD-III-016](foundation/03-architect-and-prototype.md) Evolution selects for reproduction, not comfort or longevity · Empirical
+- [AD-III-018](foundation/03-architect-and-prototype.md) Suboptimal design fits the process-oriented model · Interpretation
 
 ### threshold-of-individual-existence
 

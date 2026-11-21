@@ -49,6 +49,10 @@ def ws(tmp_path):
     root = tmp_path / "repo"
     for folder in ("vocab", "templates", "alignment"):
         shutil.copytree(REPO / folder, root / folder)
+    # Start from an empty ledger: the real one holds entries for real chapters that don't exist here.
+    ledger = root / "alignment" / "ledger.md"
+    skeleton = ledger.read_text(encoding="utf-8").split("## Entries", 1)[0] + "## Entries\n"
+    ledger.write_text(skeleton, encoding="utf-8")
     config = yaml.safe_load((REPO / "distill.config.yaml").read_text(encoding="utf-8"))
     config["source_root"] = "../source"
     config["book"]["chapters"] = [
