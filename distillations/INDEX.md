@@ -39,6 +39,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-016](foundation/01-epistemic-framework.md) Anti-anthropocentrism survives either ontology of consciousness · Methodological
 - [AD-I-038](foundation/01-epistemic-framework.md) The Pool is not a consciousness field · Methodological
 - [AD-I-039](foundation/01-epistemic-framework.md) The framework does not claim the energetic economy is conscious · Not established
+- [AD-II-010](foundation/02-nature-of-the-render.md) Consciousness participates in writing, rather than replaying data · Postulated
 
 ### agnostic-deism
 
@@ -60,6 +61,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-004](foundation/01-epistemic-framework.md) System Isolation applies to consciousness too · Methodological
 - [AD-I-006](foundation/01-epistemic-framework.md) Agnostic about the Architect's nature and about consciousness · Methodological
 - [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
+- [AD-II-012](foundation/02-nature-of-the-render.md) Libertarian free will is possible but unverifiable · Uncertainty
 
 ### annihilation-of-the-ego
 
@@ -168,6 +170,22 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-012](foundation/01-epistemic-framework.md) A successor species would repeat the myth of centrality · Postulated — *amended L-0001*
 - [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
 
+### data-cube
+
+*Data Cube (Temporal Geometry)*
+
+- [AD-II-001](foundation/02-nature-of-the-render.md) The universe is modelled as a data structure written in real time · Postulated
+- [AD-II-002](foundation/02-nature-of-the-render.md) Computational language is vocabulary, not physics · Methodological
+- [AD-II-003](foundation/02-nature-of-the-render.md) Time is a Data Cube of all possible coordinates · Postulated
+- [AD-II-004](foundation/02-nature-of-the-render.md) The Data Cube is not pre-calculated · Postulated
+- [AD-II-005](foundation/02-nature-of-the-render.md) The past is written, fixed and real · Postulated
+- [AD-II-006](foundation/02-nature-of-the-render.md) The present is the write edge · Postulated
+- [AD-II-007](foundation/02-nature-of-the-render.md) The future is blank and not yet real · Postulated
+- [AD-II-008](foundation/02-nature-of-the-render.md) How coordinates are written is unknown · Uncertainty
+- [AD-II-009](foundation/02-nature-of-the-render.md) Experienced linearity may reflect our processing limits · Postulated
+- [AD-II-010](foundation/02-nature-of-the-render.md) Consciousness participates in writing, rather than replaying data · Postulated
+- [AD-II-011](foundation/02-nature-of-the-render.md) Choices may be genuinely open · Postulated
+
 ### deism
 
 *Deism (the rational inference)*
@@ -210,6 +228,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-036](foundation/00-preamble.md) A scientific fact does not by itself produce a moral obligation · Methodological
 - [AD-I-014](foundation/01-epistemic-framework.md) The ability to ask questions does not privilege our answers · Methodological
 - [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
+- [AD-II-021](foundation/02-nature-of-the-render.md) Interpretations of quantum mechanics are speculative · Methodological
 
 ### evolution
 
@@ -253,6 +272,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 *Free Will (Open Question)*
 
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+- [AD-II-011](foundation/02-nature-of-the-render.md) Choices may be genuinely open · Postulated
+- [AD-II-012](foundation/02-nature-of-the-render.md) Libertarian free will is possible but unverifiable · Uncertainty
 
 ### genetic-engineering-ethics
 
@@ -288,6 +309,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-I-031](foundation/01-epistemic-framework.md) Energy framed as a pervasive field of potential · Interpretation
 - [AD-I-034](foundation/01-epistemic-framework.md) The Pool is not a mystical substance · Methodological
 - [AD-I-035](foundation/01-epistemic-framework.md) The Pool is not a physical field and proposes no new physics · Methodological
+- [AD-II-002](foundation/02-nature-of-the-render.md) Computational language is vocabulary, not physics · Methodological
 
 ### is-ought-gap
 
@@ -342,6 +364,13 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-031](foundation/00-preamble.md) Ethical responsibility does not wait for certainty · Chosen foundation
 
+### postulation
+
+*Postulation*
+
+- [AD-II-003](foundation/02-nature-of-the-render.md) Time is a Data Cube of all possible coordinates · Postulated
+- [AD-II-013](foundation/02-nature-of-the-render.md) Quantum frames are imaginative models, not claims about reality · Methodological
+
 ### problem-of-evil
 
 *Problem of evil and suffering*
@@ -355,6 +384,21 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
 - [AD-I-019](foundation/01-epistemic-framework.md) The Architect initialised the system and does not intervene · Inference
+
+### quantum-speculation
+
+*Quantum Speculation (Lazy Loading, Universal Audit, Entanglement)*
+
+- [AD-II-013](foundation/02-nature-of-the-render.md) Quantum frames are imaginative models, not claims about reality · Methodological
+- [AD-II-014](foundation/02-nature-of-the-render.md) Lazy loading: superposition as unrendered potential · Postulated
+- [AD-II-015](foundation/02-nature-of-the-render.md) Lazy loading is metaphor, not mechanism · Methodological
+- [AD-II-016](foundation/02-nature-of-the-render.md) Universal Audit: physical interactions act as observers · Postulated
+- [AD-II-017](foundation/02-nature-of-the-render.md) Decoherence theory supports the Universal Audit's core · Empirical
+- [AD-II-018](foundation/02-nature-of-the-render.md) Entangled particles as one underlying variable · Postulated
+- [AD-II-019](foundation/02-nature-of-the-render.md) The entanglement frame proves no metaphysics · Methodological
+- [AD-II-020](foundation/02-nature-of-the-render.md) Quantum mechanics is experimentally verified · Empirical
+- [AD-II-021](foundation/02-nature-of-the-render.md) Interpretations of quantum mechanics are speculative · Methodological
+- [AD-II-022](foundation/02-nature-of-the-render.md) Mainstream interpretations are equally compatible with observation · Uncertainty
 
 ### rejection-of-ego
 
@@ -414,3 +458,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 *Write Edge (The Present)*
 
 - [AD-P-034](foundation/00-preamble.md) Finitude makes the present domain of agency precious · Interpretation
+- [AD-II-001](foundation/02-nature-of-the-render.md) The universe is modelled as a data structure written in real time · Postulated
+- [AD-II-006](foundation/02-nature-of-the-render.md) The present is the write edge · Postulated
+- [AD-II-010](foundation/02-nature-of-the-render.md) Consciousness participates in writing, rather than replaying data · Postulated
+- [AD-II-011](foundation/02-nature-of-the-render.md) Choices may be genuinely open · Postulated
