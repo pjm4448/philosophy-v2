@@ -548,8 +548,7 @@ def _validate_sources(ws: Workspace, report: Report) -> None:
 def _validate_doc(ws: Workspace, doc: Doc, types: set[str], concepts: dict, report: Report) -> None:
     p, fm = doc.path, doc.front
     expected_id = doc.label
-    common = ["doc_id", "title", "kind", "source_path", "source_repo", "source_commit",
-              "framework_version_cited", "distilled_on", "status"]
+    common = ["doc_id", "title", "kind", "source_path", "source_repo", "source_commit", "distilled_on", "status"]
     required = common + (["chapter", "chapter_heading", "amended"] if doc.kind == "foundation-chapter" else [])
     for key in required:
         if key not in fm or fm[key] in (None, ""):
@@ -794,6 +793,15 @@ def _render(front: dict, body: str) -> str:
     return "---\n" + yaml.safe_dump(front, sort_keys=False, allow_unicode=True, width=1000) + "---\n\n" + body
 
 
+def _version_refs(lines: list[str]) -> str:
+    """List references to a specific edition of the foundation book, which essays should not make."""
+    refs = [f"- L{i + 1}: \"{m.group(0)}\"" for i, line in enumerate(lines) for m in ORDINAL_UPDATE_RE.finditer(line)]
+    if not refs:
+        return ""
+    return "Version references to remove when reconstituting (essays must not cite a foundation edition):\n\n" + \
+        "\n".join(refs) + "\n"
+
+
 def cmd_scaffold(ws: Workspace, foundation: bool, chapter: str | None, essay: str | None) -> int:
     ws.require_source()
     body = _template_body(ws)
@@ -802,8 +810,6 @@ def cmd_scaffold(ws: Workspace, foundation: bool, chapter: str | None, essay: st
     created = 0
     if foundation:
         book = ws.book_lines()
-        m = ORDINAL_UPDATE_RE.search("\n".join(book[:15]))
-        version = m.group(0).title() if m else "none"
         for c in [ws.chapter(chapter)] if chapter else ws.chapters:
             chapter_range(book, c)  # fail early if heading missing
             path = ws.foundation_file(c)
@@ -813,11 +819,11 @@ def cmd_scaffold(ws: Workspace, foundation: bool, chapter: str | None, essay: st
             front = {
                 "doc_id": f"AD-{c.id}", "title": c.heading, "kind": "foundation-chapter",
                 "source_path": ws.book_path, "source_repo": ws.source_repo, "source_commit": commit,
-                "framework_version_cited": version, "distilled_on": today, "status": "draft",
+                "distilled_on": today, "status": "draft",
                 "chapter": c.id, "chapter_heading": c.heading, "amended": False,
             }
             values = {"title": c.heading, "doc_id": f"AD-{c.id}", "id_pattern": f"AD-{c.id}-NNN",
-                      "example_id": f"AD-{c.id}-001"}
+                      "example_id": f"AD-{c.id}-001", "version_refs": ""}
             write_text(path, _render(front, _fill(body, values)))
             print(f"created: {path.relative_to(ws.root).as_posix()}")
             created += 1
@@ -830,13 +836,12 @@ def cmd_scaffold(ws: Workspace, foundation: bool, chapter: str | None, essay: st
                 continue
             lines = ws.source_lines(e.path)
             title = next((ln[2:].strip() for ln in lines if ln.startswith("# ")), e.slug)
-            versions = list(dict.fromkeys(m.group(0).title() for m in ORDINAL_UPDATE_RE.finditer("\n".join(lines))))
             front = {
                 "doc_id": e.slug, "title": title, "kind": "essay", "source_path": e.path,
-                "source_repo": ws.source_repo, "source_commit": commit,
-                "framework_version_cited": "; ".join(versions) or "none", "distilled_on": today, "status": "draft",
+                "source_repo": ws.source_repo, "source_commit": commit, "distilled_on": today, "status": "draft",
             }
-            values = {"title": title, "doc_id": e.slug, "id_pattern": f"{e.prefix}-NNN", "example_id": f"{e.prefix}-001"}
+            values = {"title": title, "doc_id": e.slug, "id_pattern": f"{e.prefix}-NNN", "example_id": f"{e.prefix}-001",
+                      "version_refs": _version_refs(lines)}
             write_text(path, _render(front, _fill(body, values)))
             print(f"created: {path.relative_to(ws.root).as_posix()}")
             created += 1

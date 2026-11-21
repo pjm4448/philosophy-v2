@@ -80,9 +80,7 @@ python tools/distill.py ledger [--pending] [--impact L-NNNN]   # list entries / 
 python -m pytest tools/tests -q                                # tool tests
 ```
 
-## Known source observations
+## Version references
 
-- The book is the *Twelfth Update*. Some essays cite the *Eleventh* (and one the *Tenth*) Update. This drift is recorded in
-  each essay's distillation.
-- The source README lists `cosmic-insignificance-is-not-the-end-of-meaning.md`, which does not exist. It is not registered
-  in `distill.config.yaml`.
+Essays should not cite a particular edition of the foundation book (e.g. "Eleventh Update"). When an essay is scaffolded,
+any such references are listed in section 9 of its distillation, so they can be removed when it is reconstituted.

@@ -44,7 +44,8 @@ on a difference is the user's job.
    - One entry per distinct conflict. If several essay claims share the same conflict, open one entry per essay claim and
      cross-reference them in *Analysis*.
 5. Fill section *8. Alignment summary*: the chapters touched, a count per relation, and the ledger IDs.
-6. Record the version drift (essay cites the Eleventh Update, foundation is the Twelfth) and other terminology drift in section 9.
+6. Record terminology drift in section 9. Version references (e.g. "Eleventh Update") are not alignment findings; don't
+   open ledger entries for them.
 7. Set the essay's front matter `status: aligned` once every claim has a `Foundation` field.
 8. Run `python tools/distill.py validate` (0 errors) and then `python tools/distill.py index`.
 

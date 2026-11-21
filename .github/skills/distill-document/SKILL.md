@@ -42,8 +42,9 @@ The output is one file that follows `templates/distillation-template.md`:
 9. **Objections (7.):** objection, then the response's claim IDs, then the cross-reference to the matching Chapter X claim (if X
    is distilled) or `none`.
 10. **Thesis (1.)** last: at most 3 plain sentences.
-11. **Drift and open questions (9.):** the framework version cited, terms that differ from the glossary, and any claim you
-    were unsure how to type, with the reason.
+11. **Drift and open questions (9.):** terms that differ from the glossary, and any claim you were unsure how to type, with
+    the reason. Keep the scaffold's list of version references ("Eleventh Update" etc.): essays must not cite a foundation
+    edition, so these are removed at reconstitution. They are not claims and not alignment findings.
 12. Set `status: reviewed` only when the user has reviewed the file. Leave `draft` otherwise.
 13. Run `python tools/distill.py validate`, fix every error, then run `python tools/distill.py index`.
 

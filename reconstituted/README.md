@@ -25,5 +25,7 @@ its original. For example, `article/the-architecture-of-reality/the-architecture
 - Reconstitution is expected to be largely **manual**. The Distiller agent does not write here unless explicitly asked.
 - Before reconstituting, run `python tools/distill.py validate` and `python tools/distill.py ledger --pending`. Every entry
   should be ruled and applied.
-- Update the edition/version line (for example *Thirteenth Update*) and the book's revision history to list the ledger
+- Reconstituted essays must **not** cite a particular edition of the foundation book (e.g. "Eleventh Update"). Refer to
+  the framework or the book by name only. Each essay distillation's section 9 lists the version references to remove.
+- Update the book's revision history to list the ledger
   entries applied.

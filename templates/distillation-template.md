@@ -6,7 +6,6 @@ kind: "foundation-chapter | essay"
 source_path: "book/agnostic-deism.md | article/<file>.md"   # relative to source_root
 source_repo: "https://github.com/pjm4448/philosophy"
 source_commit: "<commit distilled from; provenance only>"
-framework_version_cited: "<e.g. Twelfth Update; none>"
 distilled_on: "YYYY-MM-DD"
 status: "draft | reviewed | aligned"      # aligned = essays only, every claim has a Foundation field
 # foundation-chapter only:
@@ -124,8 +123,11 @@ Essays only, filled in during alignment (align-with-foundation skill). Foundatio
 
 ## 9. Drift and open questions
 
+{{version_refs}}
 <!--
-- Framework version cited vs. current foundation edition.
+- Version references: essays must not cite a particular edition of the foundation book (e.g. "Eleventh Update").
+  Scaffold lists any it finds above so they are removed when the essay is reconstituted. They are not claims and
+  not alignment findings.
 - Terminology that differs from the glossary.
 - Gaps, ambiguities, or points the distiller was unsure how to type (say why).
 -->

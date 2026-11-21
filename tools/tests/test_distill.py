@@ -119,9 +119,12 @@ def test_fresh_scaffold_validates_and_is_not_overwritten(scaffolded, capsys):
     report = distill.validate(ws)
     assert report.errors == []
     assert any("no claims distilled yet" in w for w in report.warnings)
-    front, _, _ = distill.split_front_matter(ws.essay_file(ws.essay("one")).read_text(encoding="utf-8"))
-    assert front["framework_version_cited"] == "Eleventh Update"
+    front, body, _ = distill.split_front_matter(ws.essay_file(ws.essay("one")).read_text(encoding="utf-8"))
+    assert "framework_version_cited" not in front
+    assert 'L3: "Eleventh Update"' in body
     assert front["title"] == "Essay One"
+    chapter_body = ws.foundation_file(ws.chapter("I")).read_text(encoding="utf-8")
+    assert "{{" not in chapter_body and "Version references" not in chapter_body.split("-->")[-1]
     chapter_file = ws.foundation_file(ws.chapter("I"))
     chapter_file.write_text("sentinel", encoding="utf-8")
     distill.cmd_scaffold(ws, True, "I", None)
