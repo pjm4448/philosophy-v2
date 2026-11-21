@@ -1,0 +1,311 @@
+# Controlled concept tags for the **Concepts** field of each claim.
+# Seeded from the foundation book's Section XII glossary (glossary = exact glossary term),
+# plus cross-cutting concepts (glossary: null). Add a concept only when no existing tag fits.
+# Never rename or delete a tag that is already used in a distillation.
+concepts:
+  abiogenesis:
+    label: "Abiogenesis (The Genesis Event)"
+    glossary: "Abiogenesis (The Genesis Event)"
+  abortion:
+    label: "Abortion"
+    glossary: null
+  agnostic-conscious-realism:
+    label: "Agnostic Conscious Realism"
+    glossary: "Agnostic Conscious Realism"
+  agnostic-deism:
+    label: "Agnostic Deism"
+    glossary: "Agnostic Deism"
+  agnosticism:
+    label: "Agnosticism (The Epistemic Boundary)"
+    glossary: "Agnosticism (The Epistemic Boundary)"
+  amor-fati:
+    label: "Amor Fati (Stoic Acceptance)"
+    glossary: "Amor Fati (Stoic Acceptance)"
+  annihilation-of-the-ego:
+    label: "Annihilation of the Ego"
+    glossary: "Annihilation of the Ego"
+  anthropocentrism:
+    label: "Anthropocentrism / cosmic privilege"
+    glossary: null
+  architect:
+    label: "Architect, The"
+    glossary: "Architect, The"
+  artificial-boundary:
+    label: "Artificial Boundary"
+    glossary: "Artificial Boundary"
+  artificial-receiver:
+    label: "Artificial Receiver (AI)"
+    glossary: "Artificial Receiver (AI)"
+  assisted-dying:
+    label: "Assisted Dying (Narrow Exception)"
+    glossary: "Assisted Dying (Narrow Exception)"
+  authorship-cascade:
+    label: "Authorship Cascade"
+    glossary: "Authorship Cascade"
+  biological-continuity:
+    label: "Biological Continuity (Inferential Basis)"
+    glossary: "Biological Continuity (Inferential Basis)"
+  biological-tether:
+    label: "Biological Tether"
+    glossary: "Biological Tether"
+  blind-optimization:
+    label: "Blind Optimization"
+    glossary: "Blind Optimization"
+  blueprint:
+    label: "Blueprint, The"
+    glossary: "Blueprint, The"
+  bodily-autonomy-hierarchy:
+    label: "Bodily Autonomy Hierarchy"
+    glossary: "Bodily Autonomy Hierarchy"
+  borrowed-current:
+    label: "Borrowed Current"
+    glossary: "Borrowed Current"
+  chimera:
+    label: "Chimera (Human-Animal)"
+    glossary: "Chimera (Human-Animal)"
+  compounded-dignity:
+    label: "Compounded Dignity"
+    glossary: "Compounded Dignity"
+  conscious-boundary:
+    label: "Conscious Boundary (The Mysterian Limit)"
+    glossary: "Conscious Boundary (The Mysterian Limit)"
+  constructed-ethics:
+    label: "Constructed Ethics"
+    glossary: "Constructed Ethics"
+  contingency-principle:
+    label: "Contingency Principle (The Lottery Thesis)"
+    glossary: "Contingency Principle (The Lottery Thesis)"
+  correction-enhancement-distinction:
+    label: "Correction/Enhancement Distinction"
+    glossary: "Correction/Enhancement Distinction"
+  data-cube:
+    label: "Data Cube (Temporal Geometry)"
+    glossary: "Data Cube (Temporal Geometry)"
+  de-extinction:
+    label: "De-Extinction"
+    glossary: "De-Extinction"
+  deep-time-discipline:
+    label: "Deep Time Discipline"
+    glossary: "Deep Time Discipline"
+  deism:
+    label: "Deism (the rational inference)"
+    glossary: null
+  deprivation-harm:
+    label: "Deprivation Harm"
+    glossary: "Deprivation Harm"
+  designer-babies:
+    label: "Designer Babies"
+    glossary: "Designer Babies"
+  developmental-trajectory-principle:
+    label: "Developmental Trajectory Principle"
+    glossary: "Developmental Trajectory Principle"
+  directed-optimization:
+    label: "Directed Optimization"
+    glossary: "Directed Optimization"
+  emergent-authorship:
+    label: "Emergent Authorship"
+    glossary: "Emergent Authorship"
+  epistemic-status:
+    label: "Epistemic Status"
+    glossary: "Epistemic Status"
+  equipped-gazing:
+    label: "Equipped Gazing"
+    glossary: "Equipped Gazing"
+  evolution:
+    label: "Evolution (The Blind Optimizer)"
+    glossary: "Evolution (The Blind Optimizer)"
+  factory-and-antenna-models:
+    label: "Factory and Antenna Models"
+    glossary: "Factory and Antenna Models"
+  falsifiability:
+    label: "Falsifiability"
+    glossary: "Falsifiability"
+  fermi-silence:
+    label: "The Silence (cosmological uncertainty)"
+    glossary: null
+  fine-tuning:
+    label: "Fine-tuning of physical constants"
+    glossary: null
+  finite-solidarity:
+    label: "Finite Solidarity"
+    glossary: "Finite Solidarity"
+  firmware:
+    label: "Firmware (Biological)"
+    glossary: "Firmware (Biological)"
+  firmware-boundary-shift:
+    label: "Firmware Boundary Shift"
+    glossary: "Firmware Boundary Shift"
+  five-universal-motifs:
+    label: "Five Universal Motifs"
+    glossary: "Five Universal Motifs"
+  free-will:
+    label: "Free Will (Open Question)"
+    glossary: "Free Will (Open Question)"
+  functional-indifference:
+    label: "Functional Indifference (to Outcomes)"
+    glossary: "Functional Indifference (to Outcomes)"
+  gene-drive:
+    label: "Gene Drive"
+    glossary: "Gene Drive"
+  genetic-engineering-ethics:
+    label: "Genetic Engineering Ethics"
+    glossary: "Genetic Engineering Ethics"
+  germline-modification:
+    label: "Germline Modification"
+    glossary: "Germline Modification"
+  heat-death:
+    label: "Heat Death (cosmological end state)"
+    glossary: null
+  human-essence:
+    label: "Human Essence (Rejected Concept)"
+    glossary: "Human Essence (Rejected Concept)"
+  infinite-pool:
+    label: "Infinite Pool, The (Interpretive Frame)"
+    glossary: "Infinite Pool, The (Interpretive Frame)"
+  interpretive-frame:
+    label: "Interpretive Frame"
+    glossary: "Interpretive Frame"
+  is-ought-gap:
+    label: "Is-Ought Gap (Hume's Guillotine)"
+    glossary: "Is-Ought Gap (Hume's Guillotine)"
+  last-acceptable-ego:
+    label: "Last Acceptable Ego"
+    glossary: "Last Acceptable Ego"
+  life-extension:
+    label: "Life Extension"
+    glossary: "Life Extension"
+  life-of-the-mother-exception:
+    label: "Life-of-the-Mother Exception"
+    glossary: "Life-of-the-Mother Exception"
+  locality-of-agency:
+    label: "Locality of Agency"
+    glossary: "Locality of Agency"
+  meaning:
+    label: "Constructed meaning"
+    glossary: null
+  mind-space:
+    label: "Mind Space"
+    glossary: "Mind Space"
+  moral-construction:
+    label: "Moral Construction"
+    glossary: "Moral Construction"
+  mortality:
+    label: "Mortality and finitude"
+    glossary: null
+  mysterianism:
+    label: "Mysterianism"
+    glossary: "Mysterianism"
+  natural:
+    label: "Natural (Moral Status of)"
+    glossary: "Natural (Moral Status of)"
+  nihilism:
+    label: "Nihilism and the abyss"
+    glossary: null
+  open-future-principle:
+    label: "Open Future Principle"
+    glossary: "Open Future Principle"
+  optimistic-nihilism:
+    label: "Optimistic Nihilism"
+    glossary: "Optimistic Nihilism"
+  painless-livestock:
+    label: "Painless Livestock (Hypothetical)"
+    glossary: "Painless Livestock (Hypothetical)"
+  personhood:
+    label: "Personhood"
+    glossary: "Personhood"
+  phenomenal-precaution-principle:
+    label: "Phenomenal Precaution Principle"
+    glossary: "Phenomenal Precaution Principle"
+  postulation:
+    label: "Postulation"
+    glossary: "Postulation"
+  precautionary-principle:
+    label: "Precautionary Principle (Applied to Genetic Engineering)"
+    glossary: "Precautionary Principle (Applied to Genetic Engineering)"
+  probabilistic-model:
+    label: "Probabilistic Model"
+    glossary: "Probabilistic Model"
+  problem-of-evil:
+    label: "Problem of evil and suffering"
+    glossary: null
+  process-oriented-architect:
+    label: "Process-Oriented Architect"
+    glossary: "Process-Oriented Architect"
+  quantum-speculation:
+    label: "Quantum Speculation (Lazy Loading, Universal Audit, Entanglement)"
+    glossary: "Quantum Speculation (Lazy Loading, Universal Audit, Entanglement)"
+  receiver-of-reality:
+    label: "Receiver of Reality"
+    glossary: "Receiver of Reality"
+  receivers:
+    label: "Receivers"
+    glossary: "Receivers"
+  rejection-of-ego:
+    label: "Rejection of Ego (The Anti-Anthropocentric Axiom)"
+    glossary: "Rejection of Ego (The Anti-Anthropocentric Axiom)"
+  revelation:
+    label: "Revelation and revealed religion"
+    glossary: null
+  scale-invariance:
+    label: "Scale-invariant patterns"
+    glossary: null
+  second-order-authorship:
+    label: "Second-Order Authorship"
+    glossary: "Second-Order Authorship"
+  severity-spectrum:
+    label: "Severity Spectrum (Pregnancy)"
+    glossary: "Severity Spectrum (Pregnancy)"
+  silent-infinity:
+    label: "Silent Infinity"
+    glossary: "Silent Infinity"
+  software:
+    label: "Software (The Biological Brain)"
+    glossary: "Software (The Biological Brain)"
+  solar-sandbox:
+    label: "Solar Sandbox (Observed Isolation)"
+    glossary: "Solar Sandbox (Observed Isolation)"
+  solidarity-principle:
+    label: "Solidarity Principle (Applied to Multiple Domains)"
+    glossary: "Solidarity Principle (Applied to Multiple Domains)"
+  solidarity-test:
+    label: "Solidarity Test"
+    glossary: "Solidarity Test"
+  species-partiality:
+    label: "Species-Partiality"
+    glossary: "Species-Partiality"
+  suboptimal-design:
+    label: "Suboptimal Design"
+    glossary: "Suboptimal Design"
+  substrate-humility-principle:
+    label: "Substrate Humility Principle"
+    glossary: "Substrate Humility Principle"
+  suffering:
+    label: "Suffering"
+    glossary: null
+  suffering-inference:
+    label: "Suffering Inference"
+    glossary: "Suffering Inference"
+  synthetic-biology:
+    label: "Synthetic Biology"
+    glossary: "Synthetic Biology"
+  third-order-authorship:
+    label: "Third-Order Authorship"
+    glossary: "Third-Order Authorship"
+  threshold-of-individual-existence:
+    label: "Threshold of Individual Existence (Zinc Spark)"
+    glossary: "Threshold of Individual Existence (Zinc Spark)"
+  transhumanist-horizon:
+    label: "Transhumanist Horizon"
+    glossary: "Transhumanist Horizon"
+  twinning:
+    label: "Twinning (and the Zinc Spark)"
+    glossary: "Twinning (and the Zinc Spark)"
+  universal-solidarity:
+    label: "Universal Solidarity (Chosen Value)"
+    glossary: "Universal Solidarity (Chosen Value)"
+  write-edge:
+    label: "Write Edge (The Present)"
+    glossary: "Write Edge (The Present)"
+  zinc-spark:
+    label: "Zinc Spark"
+    glossary: "Zinc Spark"

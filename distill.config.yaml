@@ -1,0 +1,106 @@
+# Configuration for tools/distill.py and the Philosophy Distiller agent.
+#
+# Source documents are read-only input. They are never edited by the tooling or the agent.
+# source_root is resolved relative to this repository's root. Override with the
+# PHILOSOPHY_SOURCE_ROOT environment variable or the --source-root CLI option.
+source_root: ../philosophy
+source_repo: https://github.com/pjm4448/philosophy
+
+book:
+  path: book/agnostic-deism.md
+  # The foundation is distilled one chapter per file. Headings must match the book's
+  # level-2 headings exactly (without the leading "## ").
+  # TOC and "XIV. Document Revision History" are intentionally not distilled.
+  chapters:
+    - id: P
+      heading: Preamble
+      file: 00-preamble.md
+    - id: I
+      heading: "I. The Epistemic Framework: Agnosticism and Deism"
+      file: 01-epistemic-framework.md
+    - id: II
+      heading: "II. The Nature of the Render: Time and Quantum Theory"
+      file: 02-nature-of-the-render.md
+    - id: III
+      heading: III. The Architect and the Experimental Prototype
+      file: 03-architect-and-prototype.md
+    - id: IV
+      heading: "IV. Dual-Mode Agency: Firmware vs. Software"
+      file: 04-dual-mode-agency.md
+    - id: V
+      heading: V. The Infinite Pool, Consciousness, and Annihilation
+      file: 05-pool-consciousness-annihilation.md
+    - id: VI
+      heading: "VI. The Ethics of Construction: The User OS"
+      file: 06-ethics-of-construction.md
+    - id: VII
+      heading: VII. The Silicon Parallel and the Solar Sandbox
+      file: 07-silicon-parallel-solar-sandbox.md
+    - id: VIII
+      heading: "VIII. Genetic Engineering: Conscious Authorship of the Blueprint"
+      file: 08-genetic-engineering.md
+    - id: IX
+      heading: IX. The Timeline
+      file: 09-timeline.md
+    - id: X
+      heading: X. Anticipated Criticisms and Rebuttals
+      file: 10-criticisms-and-rebuttals.md
+    - id: XI
+      heading: "XI. Epistemic Transparency: The Limits of the Framework"
+      file: 11-epistemic-transparency.md
+    - id: XII
+      heading: "XII. Glossary of Terms: Detailed Architectural Reference"
+      file: 12-glossary.md
+    - id: XIII
+      heading: XIII. The Manifesto of the Agnostic Deist
+      file: 13-manifesto.md
+
+# Essay claim IDs are <prefix>-<NNN>. Prefixes are 2-6 capital letters and must not be "AD".
+essays:
+  - slug: anti-anthropocentrism-as-the-decisive-blade
+    path: article/anti-anthropocentrism-as-the-decisive-blade.md
+    prefix: AADB
+  - slug: borrowed-current-dissolved-pattern
+    path: article/borrowed-current-dissolved-pattern.md
+    prefix: BCDP
+  - slug: consciousness-at-the-boundary
+    path: article/consciousness-at-the-boundary.md
+    prefix: CATB
+  - slug: gazing-into-the-abyss-without-becoming-it
+    path: article/gazing-into-the-abyss-without-becoming-it.md
+    prefix: GIAB
+  - slug: im-pro-life-because-im-an-agnostic-deist
+    path: article/im-pro-life-because-im-an-agnostic-deist.md
+    prefix: IPL
+  - slug: the-architecture-of-reality
+    path: article/the-architecture-of-reality/the-architecture-of-reality.md
+    prefix: TAOR
+  - slug: the-beanstalk-bible
+    path: article/the-beanstalk-bible.md
+    prefix: TBB
+  - slug: the-carbon-cocoon-why-biology-was-never-the-destination
+    path: article/the-carbon-cocoon-why-biology-was-never-the-destination.md
+    prefix: TCC
+  - slug: the-final-write-edge
+    path: article/the-final-write-edge.md
+    prefix: TFWE
+  - slug: the-generative-blueprint
+    path: article/the-generative-blueprint.md
+    prefix: TGB
+  - slug: the-gift-of-being-unimportant
+    path: article/the-gift-of-being-unimportant.md
+    prefix: TGBU
+  - slug: the-problem-of-evil-and-suffering
+    path: article/the-problem-of-evil-and-suffering.md
+    prefix: TPES
+
+# Output locations, relative to this repository's root.
+paths:
+  template: templates/distillation-template.md
+  foundation_dir: distillations/foundation
+  essays_dir: distillations/essays
+  index: distillations/INDEX.md
+  ledger: alignment/ledger.md
+  claim_types: vocab/claim-types.md
+  relations: vocab/relations.md
+  concepts: vocab/concepts.yaml
