@@ -32,6 +32,13 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-029](foundation/00-preamble.md) The human person is tethered to biological organisation · Empirical
 - [AD-P-030](foundation/00-preamble.md) The consciousness–matter relationship is unresolved · Uncertainty
 - [AD-P-031](foundation/00-preamble.md) Ethical responsibility does not wait for certainty · Chosen foundation
+- [AD-I-004](foundation/01-epistemic-framework.md) System Isolation applies to consciousness too · Methodological
+- [AD-I-005](foundation/01-epistemic-framework.md) Revelatory or unitive experiences remain interpretations · Methodological
+- [AD-I-006](foundation/01-epistemic-framework.md) Agnostic about the Architect's nature and about consciousness · Methodological
+- [AD-I-015](foundation/01-epistemic-framework.md) The mystery of consciousness is no back door to cosmic privilege · Methodological
+- [AD-I-016](foundation/01-epistemic-framework.md) Anti-anthropocentrism survives either ontology of consciousness · Methodological
+- [AD-I-038](foundation/01-epistemic-framework.md) The Pool is not a consciousness field · Methodological
+- [AD-I-039](foundation/01-epistemic-framework.md) The framework does not claim the energetic economy is conscious · Not established
 
 ### agnostic-deism
 
@@ -39,6 +46,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-001](foundation/00-preamble.md) The framework is a structure for living · Methodological
 - [AD-P-038](foundation/00-preamble.md) Agnostic Deism is the metaphysical foundation, not the whole philosophy · Methodological
+- [AD-I-001](foundation/01-epistemic-framework.md) Agnostic Deism combines epistemic humility with an inference of design · Methodological
 
 ### agnosticism
 
@@ -46,6 +54,12 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-002](foundation/00-preamble.md) Knowledge from within the system is fundamentally limited · Methodological
 - [AD-P-003](foundation/00-preamble.md) Epistemic humility is foundational · Methodological
+- [AD-I-001](foundation/01-epistemic-framework.md) Agnostic Deism combines epistemic humility with an inference of design · Methodological
+- [AD-I-002](foundation/01-epistemic-framework.md) System Isolation: we cannot observe the Outside or the Source · Methodological
+- [AD-I-003](foundation/01-epistemic-framework.md) Internal observers are limited to the system's own means · Methodological
+- [AD-I-004](foundation/01-epistemic-framework.md) System Isolation applies to consciousness too · Methodological
+- [AD-I-006](foundation/01-epistemic-framework.md) Agnostic about the Architect's nature and about consciousness · Methodological
+- [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
 
 ### annihilation-of-the-ego
 
@@ -58,12 +72,15 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 *Anthropocentrism / cosmic privilege*
 
 - [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
-- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
-- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Not established
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Inference
+- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Methodological
 - [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
 - [AD-P-012](foundation/00-preamble.md) Cosmic insignificance does not entail personal or moral insignificance · Methodological
 - [AD-P-026](foundation/00-preamble.md) We are responsible for our limited authorship · Chosen foundation
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+- [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
+- [AD-I-015](foundation/01-epistemic-framework.md) The mystery of consciousness is no back door to cosmic privilege · Methodological
+- [AD-I-016](foundation/01-epistemic-framework.md) Anti-anthropocentrism survives either ontology of consciousness · Methodological
 
 ### architect
 
@@ -72,6 +89,17 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
 - [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+- [AD-I-003](foundation/01-epistemic-framework.md) Internal observers are limited to the system's own means · Methodological
+- [AD-I-006](foundation/01-epistemic-framework.md) Agnostic about the Architect's nature and about consciousness · Methodological
+- [AD-I-007](foundation/01-epistemic-framework.md) Claiming to know the Architect's name, face or intent is an ego error · Methodological
+- [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
+- [AD-I-018](foundation/01-epistemic-framework.md) Precise constants suggest a Conscious Architect · Inference
+- [AD-I-019](foundation/01-epistemic-framework.md) The Architect initialised the system and does not intervene · Inference
+- [AD-I-023](foundation/01-epistemic-framework.md) Precision reads as a designer-set Global Variable · Interpretation
+- [AD-I-025](foundation/01-epistemic-framework.md) The Architect best balances parsimony and explanatory content · Inference
+- [AD-I-027](foundation/01-epistemic-framework.md) The Architect is preferred to the multiverse on parsimony · Inference
+- [AD-I-028](foundation/01-epistemic-framework.md) Preferring the Architect over brute fact trades parsimony for explanation · Inference
+- [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
 
 ### artificial-receiver
 
@@ -92,12 +120,15 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-008](foundation/00-preamble.md) Evolution is a Blind Optimizer · Empirical
 - [AD-P-023](foundation/00-preamble.md) We are products of processes we did not choose · Empirical
+- [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
 
 ### blueprint
 
 *Blueprint, The*
 
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+- [AD-I-008](foundation/01-epistemic-framework.md) The Architect may exist, but its nature lies beyond observation · Methodological
+- [AD-I-018](foundation/01-epistemic-framework.md) Precise constants suggest a Conscious Architect · Inference
 
 ### borrowed-current
 
@@ -105,6 +136,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-018](foundation/00-preamble.md) We are temporary patterns in a shared thermodynamic economy · Interpretation
 - [AD-P-021](foundation/00-preamble.md) We borrow, organise and return energy · Interpretation
+- [AD-I-032](foundation/01-epistemic-framework.md) Life is a shared, borrowed resource, not a soul · Interpretation
+- [AD-I-033](foundation/01-epistemic-framework.md) The Pool is measurable energy seen as interconnection and impermanence · Interpretation
 
 ### conscious-boundary
 
@@ -127,8 +160,13 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 *Contingency Principle (The Lottery Thesis)*
 
-- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Inference
 - [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
+- [AD-I-009](foundation/01-epistemic-framework.md) Human dominance is evolutionary circumstance, not cosmic necessity · Inference — *amended L-0001*
+- [AD-I-010](foundation/01-epistemic-framework.md) Another species would have filled our place · Inference — *amended L-0001*
+- [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
+- [AD-I-012](foundation/01-epistemic-framework.md) A successor species would repeat the myth of centrality · Postulated — *amended L-0001*
+- [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
 
 ### deism
 
@@ -136,6 +174,12 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
 - [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
+- [AD-I-001](foundation/01-epistemic-framework.md) Agnostic Deism combines epistemic humility with an inference of design · Methodological
+- [AD-I-017](foundation/01-epistemic-framework.md) Fine-tuning counts against the Accidental Universe · Inference
+- [AD-I-019](foundation/01-epistemic-framework.md) The Architect initialised the system and does not intervene · Inference
+- [AD-I-024](foundation/01-epistemic-framework.md) Alternative explanations of fine-tuning remain possible · Uncertainty
+- [AD-I-025](foundation/01-epistemic-framework.md) The Architect best balances parsimony and explanatory content · Inference
+- [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
 
 ### deprivation-harm
 
@@ -164,20 +208,36 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-003](foundation/00-preamble.md) Epistemic humility is foundational · Methodological
 - [AD-P-035](foundation/00-preamble.md) Claim types are distinct and held to their own standards · Methodological
 - [AD-P-036](foundation/00-preamble.md) A scientific fact does not by itself produce a moral obligation · Methodological
+- [AD-I-014](foundation/01-epistemic-framework.md) The ability to ask questions does not privilege our answers · Methodological
+- [AD-I-029](foundation/01-epistemic-framework.md) The Architect is inferred, probable and fallible · Inference
 
 ### evolution
 
 *Evolution (The Blind Optimizer)*
 
 - [AD-P-008](foundation/00-preamble.md) Evolution is a Blind Optimizer · Empirical
-- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Interpretation
+- [AD-P-009](foundation/00-preamble.md) Humanity is a contingent product, not the culmination · Inference
 - [AD-P-023](foundation/00-preamble.md) We are products of processes we did not choose · Empirical
+- [AD-I-009](foundation/01-epistemic-framework.md) Human dominance is evolutionary circumstance, not cosmic necessity · Inference — *amended L-0001*
+- [AD-I-010](foundation/01-epistemic-framework.md) Another species would have filled our place · Inference — *amended L-0001*
+- [AD-I-011](foundation/01-epistemic-framework.md) Evolution does not aim at humans · Empirical — *amended L-0001*
 
 ### fine-tuning
 
 *Fine-tuning of physical constants*
 
 - [AD-P-004](foundation/00-preamble.md) A non-intervening Architect is inferred from apparent design · Inference
+- [AD-I-017](foundation/01-epistemic-framework.md) Fine-tuning counts against the Accidental Universe · Inference
+- [AD-I-018](foundation/01-epistemic-framework.md) Precise constants suggest a Conscious Architect · Inference
+- [AD-I-020](foundation/01-epistemic-framework.md) Nuclear fusion efficiency lies in a narrow life-permitting range · Empirical
+- [AD-I-021](foundation/01-epistemic-framework.md) The observed cosmological constant is vastly smaller than predicted · Empirical
+- [AD-I-022](foundation/01-epistemic-framework.md) Whether the cosmological constant reflects calibration is unresolved · Uncertainty
+- [AD-I-023](foundation/01-epistemic-framework.md) Precision reads as a designer-set Global Variable · Interpretation
+- [AD-I-024](foundation/01-epistemic-framework.md) Alternative explanations of fine-tuning remain possible · Uncertainty
+- [AD-I-025](foundation/01-epistemic-framework.md) The Architect best balances parsimony and explanatory content · Inference
+- [AD-I-026](foundation/01-epistemic-framework.md) Observer selection is valid but incomplete · Inference
+- [AD-I-027](foundation/01-epistemic-framework.md) The Architect is preferred to the multiverse on parsimony · Inference
+- [AD-I-028](foundation/01-epistemic-framework.md) Preferring the Architect over brute fact trades parsimony for explanation · Inference
 
 ### finite-solidarity
 
@@ -185,6 +245,8 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-018](foundation/00-preamble.md) We are temporary patterns in a shared thermodynamic economy · Interpretation
 - [AD-P-022](foundation/00-preamble.md) Kinship is chosen · Chosen foundation
+- [AD-I-036](foundation/01-epistemic-framework.md) The Pool does not generate moral obligations · Methodological
+- [AD-I-037](foundation/01-epistemic-framework.md) Solidarity is chosen first; the Pool frame follows · Chosen foundation
 
 ### free-will
 
@@ -205,6 +267,16 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-019](foundation/00-preamble.md) The Infinite Pool is interpretive vocabulary for the shared condition · Interpretation
 - [AD-P-020](foundation/00-preamble.md) The Pool is not a physical substance or a source of moral law · Methodological
 - [AD-P-021](foundation/00-preamble.md) We borrow, organise and return energy · Interpretation
+- [AD-I-030](foundation/01-epistemic-framework.md) The Infinite Pool is a central interpretive concept · Interpretation
+- [AD-I-031](foundation/01-epistemic-framework.md) Energy framed as a pervasive field of potential · Interpretation
+- [AD-I-032](foundation/01-epistemic-framework.md) Life is a shared, borrowed resource, not a soul · Interpretation
+- [AD-I-033](foundation/01-epistemic-framework.md) The Pool is measurable energy seen as interconnection and impermanence · Interpretation
+- [AD-I-034](foundation/01-epistemic-framework.md) The Pool is not a mystical substance · Methodological
+- [AD-I-035](foundation/01-epistemic-framework.md) The Pool is not a physical field and proposes no new physics · Methodological
+- [AD-I-036](foundation/01-epistemic-framework.md) The Pool does not generate moral obligations · Methodological
+- [AD-I-037](foundation/01-epistemic-framework.md) Solidarity is chosen first; the Pool frame follows · Chosen foundation
+- [AD-I-038](foundation/01-epistemic-framework.md) The Pool is not a consciousness field · Methodological
+- [AD-I-039](foundation/01-epistemic-framework.md) The framework does not claim the energetic economy is conscious · Not established
 
 ### interpretive-frame
 
@@ -212,12 +284,23 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-019](foundation/00-preamble.md) The Infinite Pool is interpretive vocabulary for the shared condition · Interpretation
 - [AD-P-020](foundation/00-preamble.md) The Pool is not a physical substance or a source of moral law · Methodological
+- [AD-I-030](foundation/01-epistemic-framework.md) The Infinite Pool is a central interpretive concept · Interpretation
+- [AD-I-031](foundation/01-epistemic-framework.md) Energy framed as a pervasive field of potential · Interpretation
+- [AD-I-034](foundation/01-epistemic-framework.md) The Pool is not a mystical substance · Methodological
+- [AD-I-035](foundation/01-epistemic-framework.md) The Pool is not a physical field and proposes no new physics · Methodological
 
 ### is-ought-gap
 
 *Is-Ought Gap (Hume's Guillotine)*
 
 - [AD-P-036](foundation/00-preamble.md) A scientific fact does not by itself produce a moral obligation · Methodological
+- [AD-I-036](foundation/01-epistemic-framework.md) The Pool does not generate moral obligations · Methodological
+
+### last-acceptable-ego
+
+*Last Acceptable Ego*
+
+- [AD-I-012](foundation/01-epistemic-framework.md) A successor species would repeat the myth of centrality · Postulated — *amended L-0001*
 
 ### life-extension
 
@@ -251,6 +334,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-033](foundation/00-preamble.md) Accepting death does not mean welcoming it or refusing life extension · Chosen foundation
 - [AD-P-034](foundation/00-preamble.md) Finitude makes the present domain of agency precious · Interpretation
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+- [AD-I-033](foundation/01-epistemic-framework.md) The Pool is measurable energy seen as interconnection and impermanence · Interpretation
 
 ### phenomenal-precaution-principle
 
@@ -270,13 +354,19 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 
 - [AD-P-006](foundation/00-preamble.md) No species or consciousness is the intended outcome of creation · Not established
 - [AD-P-007](foundation/00-preamble.md) The Architect's authorship applies to laws and generative conditions · Interpretation
+- [AD-I-019](foundation/01-epistemic-framework.md) The Architect initialised the system and does not intervene · Inference
 
 ### rejection-of-ego
 
 *Rejection of Ego (The Anti-Anthropocentric Axiom)*
 
-- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Not established
+- [AD-P-010](foundation/00-preamble.md) Humanity is not the point of existence · Methodological
 - [AD-P-011](foundation/00-preamble.md) Humans are temporary, contingent and replaceable · Inference
+- [AD-I-007](foundation/01-epistemic-framework.md) Claiming to know the Architect's name, face or intent is an ego error · Methodological
+- [AD-I-012](foundation/01-epistemic-framework.md) A successor species would repeat the myth of centrality · Postulated — *amended L-0001*
+- [AD-I-013](foundation/01-epistemic-framework.md) Recognising contingency dissolves anthropocentric ego · Methodological
+- [AD-I-014](foundation/01-epistemic-framework.md) The ability to ask questions does not privilege our answers · Methodological
+- [AD-I-015](foundation/01-epistemic-framework.md) The mystery of consciousness is no back door to cosmic privilege · Methodological
 
 ### revelation
 
@@ -286,6 +376,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 - [AD-P-005](foundation/00-preamble.md) The Architect does not intervene, answer prayer, reveal law or manage outcomes · Inference
 - [AD-P-014](foundation/00-preamble.md) The universe provides no moral code or pre-written purpose · Not established
 - [AD-P-039](foundation/00-preamble.md) The philosophy confronts existence without the traditional supports · Methodological
+- [AD-I-005](foundation/01-epistemic-framework.md) Revelatory or unitive experiences remain interpretations · Methodological
 
 ### second-order-authorship
 
@@ -316,6 +407,7 @@ Foundation progress: [foundation/README.md](foundation/README.md)
 *Universal Solidarity (Chosen Value)*
 
 - [AD-P-022](foundation/00-preamble.md) Kinship is chosen · Chosen foundation
+- [AD-I-037](foundation/01-epistemic-framework.md) Solidarity is chosen first; the Pool frame follows · Chosen foundation
 
 ### write-edge
 

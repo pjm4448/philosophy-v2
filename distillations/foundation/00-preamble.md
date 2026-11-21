@@ -102,7 +102,7 @@ Agnostic Deism is a structure for living, not a religion or a scientific theory.
 
 #### AD-P-009 — Humanity is a contingent product, not the culmination
 - **Claim:** Humanity is one contingent product of the evolutionary process, not its culmination.
-- **Type:** Interpretation
+- **Type:** Inference
 - **Concepts:** contingency-principle, anthropocentrism, evolution
 - **Source:** § Preamble, The Architect and the Process (L18)
 
@@ -264,7 +264,7 @@ Agnostic Deism is a structure for living, not a religion or a scientific theory.
 
 #### AD-P-010 — Humanity is not the point of existence
 - **Claim:** Human intelligence does not make humanity the point of existence; anthropocentrism is rejected as a claim about cosmic significance.
-- **Type:** Not established
+- **Type:** Methodological
 - **Concepts:** anthropocentrism, rejection-of-ego
 - **Source:** § Preamble, The Rejection of Cosmic Privilege (L20)
 - **Quote:** "Human intelligence does not make humanity the point of existence."
@@ -335,7 +335,7 @@ Not applicable.
 
 - **AD-P-008 (Empirical):** the Preamble presents the Blind Optimizer as following ("therefore") from the Architect's authorship of laws. I typed it Empirical because the Book XII glossary says "Established science". "No predetermined biological destination" may instead be an interpretive claim.
 - **AD-P-005 (Inference):** the Preamble states non-intervention as part of the deist inference. Chapter III separates "Observed Non-Management" from "Non-Interventionism", and Book XI lists "We should act as if no intervention will come" as a practical commitment. When Chapter III is distilled, check whether the types agree.
-- **AD-P-010 (Not established):** the glossary calls the Rejection of Ego an "Axiom". That word suggests a methodological commitment rather than a denial for lack of evidence.
+- **AD-P-009 (Inference) and AD-P-010 (Methodological):** the Preamble gives these claims no type label. They were first typed Interpretation and Not established. After Chapter I was distilled and ruling L-0001 was applied, they were retyped to match the claims that restate them: AD-I-009 (Inference) for contingency, and AD-I-013 (Methodological) for the Rejection of Ego. Chapter I labels the latter a "methodological commitment", and the glossary calls it an "Axiom".
 - **AD-P-015 (Methodological):** typed to match the glossary entry for Constructed Ethics ("Methodological commitment"). AD-P-016 is the chosen-foundation counterpart.
 - **AD-P-018 (Interpretation):** this mixes an empirical base (organised matter and energy, energy conservation) with the interpretive framing of a "shared thermodynamic economy". I kept it as one Interpretation claim.
 - **AD-P-034 (Interpretation):** this could be read as a chosen value rather than an interpretation.
